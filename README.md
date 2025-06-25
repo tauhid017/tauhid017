@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Tauhid</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on **MindEase and many other projects**
 
