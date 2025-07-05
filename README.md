@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack Projects .**
 
-- 💬 Ask me about **javascript, react, Node.js, SQL, NoSQL, C/C++ nd any general software development questions**
+- 💬 Ask me about **javascript, react, Node.js, SQL, NoSQL, C/C++ and any general software development questions**
 
 - 📫 How to reach me **tauhidshaikhsas@gmail.com**
 
